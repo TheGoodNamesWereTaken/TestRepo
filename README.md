@@ -7,4 +7,4 @@ Let's make a few more changes and push the file again.
 
 More changes on the GitHub side. 
 
-Time to create a conflict. 
+Ok This is the real deal, killing the GitHub side.
